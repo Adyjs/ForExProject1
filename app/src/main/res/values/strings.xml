@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ForeignExProject</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="currency">幣別\n(Currency)</string>
+    <string name="buy_in">銀行買入\n(Bank buys)</string>
+    <string name="sold_out">銀行賣出\n(Bank sells)</string>
+    <string name="bank_list">銀行查詢列表</string>
+    <string name="forex_list">外幣匯率列表</string>
+
+    <string name="button_fresh">刷新</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bank_branch_mark">銀行分行分佈圖</string>
+    <string name="locate_myself">找到我的位置</string>
+</resources>

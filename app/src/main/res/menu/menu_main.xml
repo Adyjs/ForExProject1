@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/Loction"
+        app:showAsAction="ifRoom"
+        android:title="@string/locate_myself"
+        android:icon="@drawable/ic_action_mark"/>
+    <item
+        android:id="@+id/getBankLocation"
+        app:showAsAction="ifRoom"
+        android:title="@string/bank_branch_mark"
+        android:icon="@drawable/ic_my_location"/>
+</menu>

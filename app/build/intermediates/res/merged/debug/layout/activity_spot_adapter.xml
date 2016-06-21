@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/xml_currency"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:textAppearance="?android:attr/textAppearanceSmallPopupMenu"
+        android:hint="--"/>
+    <TextView
+        android:id="@+id/xml_buyIn"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:textAppearance="?android:attr/textAppearanceSmallPopupMenu"
+        android:hint="--"/>
+    <TextView
+        android:id="@+id/xml_soldOut"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:textAppearance="?android:attr/textAppearanceSmallPopupMenu"
+        android:hint="--"/>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/vmnvmnvmncvm/Desktop/ASprojects/ForeignExProject-1/app/src/main/res/layout/activity_spot_adapter.xml -->
